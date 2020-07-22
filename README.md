@@ -56,14 +56,14 @@ You can find CheatCode at https://schoolteam1.web.app/
 
 #### Reference
 * nodejs.org
-Node.js
-Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+*Node.js
+*Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 * firebase.google.com
-Firebase
-Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. (18 kB)
+*Firebase
+*Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. (18 kB)
 https://firebase.google.com/images/social.png
 
 * GitHub
-justadudewhohacks/face-api.js
-JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js - justadudewhohacks/face-api.js
+*justadudewhohacks/face-api.js
+*JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js - justadudewhohacks/face-api.js
