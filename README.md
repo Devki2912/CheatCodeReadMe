@@ -1,4 +1,5 @@
-# CheatCodeCheatCode is a web application created to enhance the online learning experience by preventing students from cheating on exams. The goal is to limit cheating by using facial recognition and eye detection, therefore, encouraging students to be accountable for their performance. In the age of technology and Covid, it is imperative to foster a supportive and fair learning environment.
+# CheatCode
+CheatCode is a web application created to enhance the online learning experience by preventing students from cheating on exams. The goal is to limit cheating by using facial recognition and eye detection, therefore, encouraging students to be accountable for their performance. In the age of technology and Covid, it is imperative to foster a supportive and fair learning environment.
 
 ## How to Use CheatCode
 CheatCode is hosted at <insertLinkLater>There are five  pages: home, login, face detection, about and contact
