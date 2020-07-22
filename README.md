@@ -54,13 +54,12 @@ You can find CheatCode at https://schoolteam1.web.app/
 * A huge acknowledgement goes to School Team 1's pro squad mentor, Ishank Tandon and go squad mentor, Kristen Mann from Angie's List to help guide us through what to do and support us during the 2020 TechPoint Challenge!
 * Thank you to TechPoint and Angie's List for making this internship happen!
 
-#### Reference
+# Reference 
+
 * nodejs.org
-* Node.js
 * Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 * firebase.google.com
-* Firebase
 * Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. (18 kB)
 https://firebase.google.com/images/social.png
 
