@@ -48,21 +48,21 @@ You can find CheatCode at https://schoolteam1.web.app/
 ## Other Creators of CheatCode
 * Sam Tincher
 *  Andrew Becker
-*Demi Linton
+* Demi Linton
 
 ## Acknowledgments
 * A huge acknowledgement goes to School Team 1's pro squad mentor, Ishank Tandon and go squad mentor, Kristen Mann from Angie's List to help guide us through what to do and support us during the 2020 TechPoint Challenge!
 * Thank you to TechPoint and Angie's List for making this internship happen!
 
- nodejs.org
+* nodejs.org
 Node.js
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 
- firebase.google.com
+* firebase.google.com
 Firebase
 Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. (18 kB)
 https://firebase.google.com/images/social.png
 
- GitHub
+* GitHub
 justadudewhohacks/face-api.js
 JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js - justadudewhohacks/face-api.js
