@@ -41,13 +41,13 @@ You can find CheatCode at https://schoolteam1.web.app/
 * [Firebase](https://firebase.google.com/) - Used for web development platform## Contributing For this project, we used [face-api](https://github.com/justadudewhohacks/face-api.js) for the face-detection feature of CheatCode
 
 ## Authors of the Code
-*Kiele Sacco
-*Deandra Rodricks
-*Devki Borad
+* Kiele Sacco
+* Deandra Rodricks
+* Devki Borad
 
 ## Other Creators of CheatCode
-*Sam Tincher
-*Andrew Becker
+* Sam Tincher
+*  Andrew Becker
 *Demi Linton
 
 ## Acknowledgments
@@ -57,10 +57,12 @@ You can find CheatCode at https://schoolteam1.web.app/
  nodejs.org
 Node.js
 Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+
  firebase.google.com
 Firebase
 Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. (18 kB)
 https://firebase.google.com/images/social.png
+
  GitHub
 justadudewhohacks/face-api.js
 JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js - justadudewhohacks/face-api.js
