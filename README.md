@@ -30,6 +30,7 @@ What to install:
 Once these are installed, and this repository  is cloned on your machine, you should be good to go, by doing an
 * > npm install
 * > ng serve
+
 Browse to http://localhost4200/.
 
 ## Deployment 
