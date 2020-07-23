@@ -24,14 +24,14 @@ We used Firebase, Node.js, and Angular to host on GitHub Pages.
 What to install:
 - Node
 - Angular
-- Firebase
+- Firebase Host
 
 ### Installing 
 Once these are installed, and this repository is cloned on your machine, you should be good to go, by doing an
 * > npm install
 * > ng serve
 
-Browse to http://localhost4200/
+Browse to http://localhost:4200/
 
 ## Deployment 
 You can find CheatCode at https://schoolteam1.web.app/
@@ -39,7 +39,10 @@ You can find CheatCode at https://schoolteam1.web.app/
 ## Built With
 * [Angular](https://cli.angular.io/) - The web framework used
 * [Node.js](https://nodejs.org/en/) - Development platform
-* [Firebase](https://firebase.google.com/) - Used for web development platform## Contributing For this project, we used [face-api](https://github.com/justadudewhohacks/face-api.js) for the face-detection feature of CheatCode
+* [Firebase](https://firebase.google.com/) - Used for web development platform
+
+## Contributing 
+For this project, we used [face-api](https://github.com/justadudewhohacks/face-api.js) for the face-detection feature of CheatCode
 
 ## Authors of the Code
 * Kiele Sacco
@@ -53,7 +56,7 @@ You can find CheatCode at https://schoolteam1.web.app/
 
 ## Acknowledgments
 * A huge acknowledgment goes to School Team 1's pro squad mentor, Ishank Tandon and go, squad mentor, Kristen Mann from Angie's List to help guide us through what to do and support us during the 2020 TechPoint Challenge!
-* Thank you to TechPoint and Angie's List for making this internship happen!
+* Thank you to TechPoint and Angie's List for making this summer 2020 challenge happen!
 
 ## Reference 
 
@@ -63,8 +66,7 @@ You can find CheatCode at https://schoolteam1.web.app/
 
 ###  firebase.google.com
 * Firebase
-* Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business. (18 kB)
-https://firebase.google.com/images/social.png
+* Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.
 
 ### GitHub
 * justadudewhohacks/face-api.js
